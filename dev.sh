@@ -1,4 +1,5 @@
 #!/bin/bash
 echo "Hello DevOps!"
-echo "Hello everybody"
+echo "Hello all people"
+
 
